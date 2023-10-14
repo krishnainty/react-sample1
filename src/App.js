@@ -15,8 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          shanmukh krishna
+          
         </a>
+        <h1>Krishna</h1>
       </header>
     </div>
   );
